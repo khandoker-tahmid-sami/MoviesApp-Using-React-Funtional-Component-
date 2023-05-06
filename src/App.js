@@ -19,6 +19,7 @@ function App() {
           <Route path='/registration' element={<Registration />}/>
           <Route path='/movies/:id' element={<MovieForm />}/>
           <Route path='/' element={<Movies />}/>
+          <Route path='/MoviesApp-Using-React-Funtional-Component-' element={<Movies />}/>
           <Route path='*' element={<Error />}/>
         </Routes>
       </div>
