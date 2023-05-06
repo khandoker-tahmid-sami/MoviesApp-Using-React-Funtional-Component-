@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MoviesApp-Using-React-Funtional-Component-/static/css/main.8e471c44.css",
-    "main.js": "/MoviesApp-Using-React-Funtional-Component-/static/js/main.5201b706.js",
+    "main.css": "/MoviesApp-Using-React-Funtional-Component-/static/css/main.0290af77.css",
+    "main.js": "/MoviesApp-Using-React-Funtional-Component-/static/js/main.09b5ac64.js",
     "static/js/787.2b35ebb1.chunk.js": "/MoviesApp-Using-React-Funtional-Component-/static/js/787.2b35ebb1.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/MoviesApp-Using-React-Funtional-Component-/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/MoviesApp-Using-React-Funtional-Component-/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -9,12 +9,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/MoviesApp-Using-React-Funtional-Component-/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/MoviesApp-Using-React-Funtional-Component-/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/MoviesApp-Using-React-Funtional-Component-/index.html",
-    "main.8e471c44.css.map": "/MoviesApp-Using-React-Funtional-Component-/static/css/main.8e471c44.css.map",
-    "main.5201b706.js.map": "/MoviesApp-Using-React-Funtional-Component-/static/js/main.5201b706.js.map",
+    "main.0290af77.css.map": "/MoviesApp-Using-React-Funtional-Component-/static/css/main.0290af77.css.map",
+    "main.09b5ac64.js.map": "/MoviesApp-Using-React-Funtional-Component-/static/js/main.09b5ac64.js.map",
     "787.2b35ebb1.chunk.js.map": "/MoviesApp-Using-React-Funtional-Component-/static/js/787.2b35ebb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e471c44.css",
-    "static/js/main.5201b706.js"
+    "static/css/main.0290af77.css",
+    "static/js/main.09b5ac64.js"
   ]
 }
