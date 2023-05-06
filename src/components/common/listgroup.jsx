@@ -2,7 +2,7 @@ import React from 'react'
 
 const ListGroup = ({items, onItemSelect, textProperty, valueProperty, selectedItem}) => {
   return (
-    <ul className="list-group">
+    <ul className="list-group list-class">
         {items.map(genre => 
         <li style={{cursor: "pointer"}} 
         onClick={()=> onItemSelect(genre)} 

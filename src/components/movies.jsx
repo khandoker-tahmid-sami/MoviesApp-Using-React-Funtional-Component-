@@ -84,7 +84,7 @@ const Movies = () => {
      <div className='col'>
       <Link 
       to={"/movies/new"}
-      className='btn btn-primary mb-3'>
+      className='btn btn-primary mb-3 my-button'>
         New Movie
       </Link>
      {filtered.length === 0 ? zeroMovies : countMovies}

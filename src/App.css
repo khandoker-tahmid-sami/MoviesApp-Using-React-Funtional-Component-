@@ -22,3 +22,19 @@
 nav .active{
   color: rgb(0, 238, 255);
 }
+
+@media(max-width: 558px){
+  .customNavbar{
+    height: 7vh;
+  }
+
+  .navLink{
+    margin-right: 1rem;
+    font-size: 14px;
+  }
+  .list-class{
+    font-size: 10px;
+    padding: 5px;
+    width: 130%;
+  }
+}

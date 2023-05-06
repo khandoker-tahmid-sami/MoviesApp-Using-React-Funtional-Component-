@@ -12,7 +12,7 @@ function App() {
   return (
     <BrowserRouter>
     <Navbar />
-      <div className="container-fluid">
+      <div className="container width">
         <Routes>
           <Route path='/customers' element={<Customers />}/>
           <Route path='/login' element={<Login />}/>
